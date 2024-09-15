@@ -1,0 +1,17 @@
+# Ignore the credentials folder
+google_sheet_sync/sheets/credentials/
+
+# Ignore environment variables file
+.env
+
+# Ignore SQLite database file
+db.sqlite3
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore other files
+.DS_Store
+Thumbs.db
